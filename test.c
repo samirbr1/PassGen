@@ -54,7 +54,7 @@ int main()
 
     int pass_lenght;
 
-    printf("Insert the lenght in your password: ");
+    printf("Insert the lenght of your password: ");
     scanf("%d", &pass_lenght);
 
 
