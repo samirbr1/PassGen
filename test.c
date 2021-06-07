@@ -6,6 +6,7 @@
 
 void PassGen(int num)
 {
+
     int i = 0, randomizer = 0;
 
     char numbers[] = "0123456789";
@@ -50,6 +51,7 @@ void PassGen(int num)
 
 int main()
 {
+
     int pass_lenght;
 
     printf("Insert the lenght in your password: ");
